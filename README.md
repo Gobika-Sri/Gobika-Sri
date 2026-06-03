@@ -40,6 +40,6 @@ Built a web application to track income, expenses and reports.
 
 ## Connect With Me
 
-* LinkedIn
-* GitHub
-* GeeksforGeeks
+* LinkedIn: https://www.linkedin.com/in/gobikasaravanan/
+* GitHub: https://github.com/Gobika-Sri
+* GeeksforGeeks: https://www.geeksforgeeks.org/profile/gobikasri
